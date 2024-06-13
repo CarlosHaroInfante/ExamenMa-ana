@@ -1,0 +1,14 @@
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\bin\Debug\net7.0\PuertoRepaso.exe
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\bin\Debug\net7.0\PuertoRepaso.deps.json
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\bin\Debug\net7.0\PuertoRepaso.runtimeconfig.json
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\bin\Debug\net7.0\PuertoRepaso.dll
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\bin\Debug\net7.0\PuertoRepaso.pdb
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.dll
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\refint\PuertoRepaso.dll
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.pdb
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\PuertoRepaso.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\PuertoRepaso\PuertoRepaso\obj\Debug\net7.0\ref\PuertoRepaso.dll

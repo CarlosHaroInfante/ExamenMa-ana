@@ -1,0 +1,8 @@
+47966922T;Alfonso;Fernández García;Psicología;29-06-2024 12:30:00;true
+47166912T;Marta;Fernández Fernández;Psicología;29-06-2024 13:00:00;false
+17165912O;Pedro;Collado Puente;Fisioterapia;30-06-2024 11:00:00;true
+37165912P;Laura;Quintero García;Psicología;29-06-2024 13:30:00;true
+17165912O;Pedro;Collado Puente;Fisioterapia;29-06-2024 11:00:00;false
+37165912P;Laura;Quintero García;Psicología;25-06-2024 13:30:00;false
+30278334F;Carlos;Haro Infante;Fisioterapia;12-06-2024 14:00:00;false
+12345678A;Manolo;ElDel Bombo;Fisioterapia;13-06-2024 12:00:00;true
